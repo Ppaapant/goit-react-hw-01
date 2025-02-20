@@ -1,0 +1,22 @@
+.profileinfo {
+    padding: 20px;
+  }
+
+
+  .username {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+
+
+  .tag {
+    color: gray;
+    margin: 5px 0;
+  }
+
+
+  .location {
+    color: gray;
+    font-size: 14px;
+  }
