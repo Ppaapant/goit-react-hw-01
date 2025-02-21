@@ -2,6 +2,8 @@ import Profile from "../AppaProfile/AppaProfile";
 import userData from "../../userData.json"
 import  FriendList from "../FriendsList/FriendsList";
 import friendsData from "../../friends.json"
+import TransactionHistory from "../TransactionHistory/TransactionHistory"
+import transactions from "../../../transactions.json"
 
 const friends = friendsData.friends;
 // const activeOfficers = officers.filter((officer) => officer.active);
@@ -21,6 +23,9 @@ export default function App() {
       />
       
       <FriendList friends={friends} />
+
+      <TransactionHistory items={transactions} />
+
     </>
   );
 }
