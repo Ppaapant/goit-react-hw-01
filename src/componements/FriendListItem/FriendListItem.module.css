@@ -1,0 +1,11 @@
+.active{
+    color:green;
+}
+
+.retired{
+    color:red;
+}
+
+.text{
+    font-size: 14px;
+}
