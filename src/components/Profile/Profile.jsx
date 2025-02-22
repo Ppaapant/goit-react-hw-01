@@ -1,7 +1,7 @@
 import ProfileInfo from "../AppProfileInfo/AppProfileInfo";
 import ProfileStats from "../AppStats/AppStats";
 import ProfileImage from "../ProfileImage/ProfileImage";
-import css from "../AppaProfile/AppaProfile.module.css";
+import css from "./Profile.module.css";
 
 
 

@@ -1,4 +1,4 @@
-import Profile from "../AppaProfile/AppaProfile";
+import Profile from "../Profile/Profile";
 import userData from "../../userData.json"
 import  FriendList from "../FriendsList/FriendsList";
 import friendsData from "../../friends.json"
